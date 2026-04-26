@@ -1,0 +1,47 @@
+.TrendingSection {
+  padding: 20px;
+}
+
+.TrendingSection h2 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.SongsCard {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 16px;
+  width: 100%;
+}
+
+.SongItem {
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  overflow: hidden;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+.SongItem:hover {
+  transform: scale(1.05);
+}
+
+.SongItem img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.SongItem h3 {
+  color: #fff;
+  text-align: center;
+  margin-top: 8px;
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

@@ -1,0 +1,34 @@
+{
+  "Spotify": [
+    {
+      "id": "1",
+      "title": "Song 1",
+      "src": "https://i.pinimg.com/736x/f2/ce/6f/f2ce6f4c299369fd385ceea191701f24.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Song 2",
+      "src": "https://vignettestore.in/wp-content/uploads/2023/07/spotify-frame-2-1.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Song 3",
+      "src": "https://i.pinimg.com/736x/46/21/59/462159e5263c0634bdc31c656406e838.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Song 4",
+      "src": "https://i.pinimg.com/736x/2f/c0/c7/2fc0c73c22f84f0c0e427946894fb692.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Song 5",
+      "src": "https://i.pinimg.com/736x/aa/46/b1/aa46b1c4af80b415db9bbfeec469b785.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Song 6",
+      "src": "https://i.pinimg.com/736x/53/f3/9b/53f39b6a394f6a71535c43a6dabb53f9.jpg"
+    }
+  ]
+}
